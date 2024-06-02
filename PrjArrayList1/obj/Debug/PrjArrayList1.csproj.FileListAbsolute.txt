@@ -1,0 +1,26 @@
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\bin\Debug\PrjArrayList1.exe.config
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\bin\Debug\PrjArrayList1.exe
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\bin\Debug\PrjArrayList1.pdb
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\bin\Debug\MetroFramework.dll
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.csprojResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.Form1.resources
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.Properties.Resources.resources
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.csproj.GenerateResource.Cache
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.exe
+C:\Users\Lab\Desktop\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.pdb
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\bin\Debug\PrjArrayList1.exe.config
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\bin\Debug\PrjArrayList1.exe
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\bin\Debug\PrjArrayList1.pdb
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\bin\Debug\MetroFramework.Design.dll
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\bin\Debug\MetroFramework.dll
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.csproj.AssemblyReference.cache
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.Form1.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.Properties.Resources.resources
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.csproj.GenerateResource.cache
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.csproj.CoreCompileInputs.cache
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArray.14DC96BD.Up2Date
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.exe
+C:\Users\jemer\Downloads\New folder\C#\PrjArrayList1\PrjArrayList1\obj\Debug\PrjArrayList1.pdb
